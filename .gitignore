@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+#tools
+.vscode
+.idea
+
+# others
+*.qm
+bin/
+.qmake*
+Makefile
+.cache
+*.user*
+build*/
