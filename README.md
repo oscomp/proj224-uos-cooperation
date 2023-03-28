@@ -24,10 +24,9 @@
 
 ......
 
-* github https://github.com/......
+github https://github.com/kegechen
 
-* email ......@......
-
+email  chenke@deepin.org
 
 
 ### 难度
